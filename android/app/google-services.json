@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761986385781",
+    "project_id": "ecommerce-lwursf",
+    "storage_bucket": "ecommerce-lwursf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761986385781:android:3177aece3973556e99f53c",
+        "android_client_info": {
+          "package_name": "com.anoukzouaoui.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DsCvSTtoq3kzPBSbTrNUHTcn1todEoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
